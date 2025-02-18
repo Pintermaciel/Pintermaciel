@@ -13,8 +13,12 @@ Analista de Dados, Engenharia de Dados e BI. Transformo dados em insights estrat
 - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 - ![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-003366?style=for-the-badge&logo=qlik&logoColor=white)
 
+### Machine Learning & Big Data
+- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+- ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
 ### Engenharia de Dados & Web
-- ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)  *(ETL/ELT)*
+- ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -25,6 +29,5 @@ Analista de Dados, Engenharia de Dados e BI. Transformo dados em insights estrat
 ## Contato
 - 📧 pintermaciel@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/matheus-pinter)  
-- 🔗 [GitHub](https://github.com/Pinternmciel)
 
 ---
